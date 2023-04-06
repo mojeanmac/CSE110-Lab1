@@ -31,7 +31,7 @@ print(q,'rrppssrpsr'.count(q+input()))
 
 [ignore](screenshots/ignore.png)
 
-[Staged commits](screenshot/stage.png)
+[Staged commits](screenshots/stage.png)
 
 ## Checklist
 At the time of completing this assignment, my friends and I were cooking Japanese curry for dinner. These are the steps we followed:
